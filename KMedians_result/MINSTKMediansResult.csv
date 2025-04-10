@@ -1,0 +1,2 @@
+Params,k++,Oracle,Sampling,Ergun Jon et al.,Ours,k++EB,OracleEB,SamplingEB,Ergun Jon et al. EB,OursEB,OPT
+"MNIST,k=10",48392.5721,47986.3452,49187.6543,48267.9834,48087.2349,0.1036,0.0982,0.1485,0.1124,0.1019,47963.8967
